@@ -8,4 +8,5 @@ For using `ubuntu:xenial` as its base, `Dockerfile-debian.template` was updated.
 
 * ridibooks/php:7.0-base ([Dockerfile](https://github.com/ridibooks-docker/php/blob/master/7.0/Dockerfile)) - PHP 7.0 image based on ubuntu/xenial
 * ridibooks/php:7.0 ([Dockerfile](https://github.com/ridibooks-docker/php/blob/master/7.0/ridibooks/Dockerfile)) - `ridibooks/php:7.0-base` with common dependencies
-
+* ridibooks/php:7.1-base ([Dockerfile](https://github.com/ridibooks-docker/php/blob/master/7.1/Dockerfile)) - PHP 7.1 image based on ubuntu/xenial
+* ridibooks/php:7.1 ([Dockerfile](https://github.com/ridibooks-docker/php/blob/master/7.1/ridibooks/Dockerfile)) - `ridibooks/php:7.1-base` with common dependencies
